@@ -1,4 +1,8 @@
-Este es un documento rst!
+**************************
+Ejemplo
+**************************
+
+Este es un titulo rst!
 ======================
 
 Pero mira vos que cheto estoooo
@@ -20,6 +24,9 @@ Y mira este bloquecito cheto
 Y mira la quote
 
   wow
+
+Python
+==================
 
 Soy tan pero tan copado que te ejecuto python en el documento
 
